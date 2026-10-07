@@ -2,12 +2,12 @@
   "scripts": [
     {
       "id": "test",
-      "name": "test",
+      "name": "time",
       "file": "test.lua",
       "version": "1.0.1",
       "author": "Name",
       "description": "test1",
-      "url": "https://raw.githubusercontent.com/yy"
+      "url": "https://raw.githubusercontent.com/wowwvw/ms/refs/heads/main/scripts/time.lua"
     },
     {
       "id": "test2",
