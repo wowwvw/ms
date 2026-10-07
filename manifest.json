@@ -6,23 +6,23 @@
       "url": "https://raw.githubusercontent.com/wowwvw/ms/refs/heads/main/scripts/time.lua"
     },
     {
-      "name": "Auto Reconnect",
-      "author": "System",
-      "url": "https://raw.githubusercontent.com/wowwvw/ms/refs/heads/main/scripts/reconnect.lua"
+      "name": "Auto-Interaction Securities",
+      "author": "yargoff",
+      "url": "https://raw.githubusercontent.com/wowwvw/ms/refs/heads/main/scripts/Auto-Interaction%20Securities.lua"
     },
     {
-      "name": "Keyboard On-Screen Overlay",
-      "author": "KeyMaster",
+      "name": "-",
+      "author": "-",
       "url": "https://raw.githubusercontent.com/wowwvw/ms/refs/heads/main/scripts/keys.lua"
     },
     {
-      "name": "Ultra FPS Up",
-      "author": "OptiTeam",
+      "name": "-",
+      "author": "-",
       "url": "https://raw.githubusercontent.com/wowwvw/ms/refs/heads/main/scripts/fpsup.lua"
     },
     {
-      "name": "Chat Helper",
-      "author": "DevName",
+      "name": "-",
+      "author": "-",
       "url": "https://raw.githubusercontent.com/wowwvw/ms/refs/heads/main/scripts/chat.lua"
     }
   ]
