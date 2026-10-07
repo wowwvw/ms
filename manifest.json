@@ -1,68 +1,29 @@
 {
   "scripts": [
     {
-      "id": "1",
       "name": "Server Time",
-      "file": "Server Time.lua",
-      "version": "1.0",
       "author": "Kalashnikov",
       "url": "https://raw.githubusercontent.com/wowwvw/ms/refs/heads/main/scripts/time.lua"
     },
     {
-      "id": "2",
-      "name": "test2",
-      "file": "test2.lua",
-      "version": "2.0.2",
-      "author": "Name",
-      "url": "https://raw.githubusercontent.com/yy"
+      "name": "Auto Reconnect",
+      "author": "System",
+      "url": "https://raw.githubusercontent.com/wowwvw/ms/refs/heads/main/scripts/reconnect.lua"
     },
     {
-      "id": "3",
-      "name": "test2",
-      "file": "test2.lua",
-      "version": "2.0.2",
-      "author": "Name",
-      "url": "https://raw.githubusercontent.com/yy"
+      "name": "Keyboard On-Screen Overlay",
+      "author": "KeyMaster",
+      "url": "https://raw.githubusercontent.com/wowwvw/ms/refs/heads/main/scripts/keys.lua"
     },
     {
-      "id": "4",
-      "name": "test2",
-      "file": "test2.lua",
-      "version": "2.0.2",
-      "author": "Name",
-      "url": "https://raw.githubusercontent.com/yy"
+      "name": "Ultra FPS Up",
+      "author": "OptiTeam",
+      "url": "https://raw.githubusercontent.com/wowwvw/ms/refs/heads/main/scripts/fpsup.lua"
     },
     {
-      "id": "5",
-      "name": "test2",
-      "file": "test2.lua",
-      "version": "2.0.2",
-      "author": "Name",
-      "url": "https://raw.githubusercontent.com/yy"
-    },
-    {
-      "id": "6",
-      "name": "test2",
-      "file": "test2.lua",
-      "version": "2.0.2",
-      "author": "Name",
-      "url": "https://raw.githubusercontent.com/yy"
-    },
-    {
-      "id": "7",
-      "name": "test2",
-      "file": "test2.lua",
-      "version": "2.0.2",
-      "author": "Name",
-      "url": "https://raw.githubusercontent.com/yy"
-    },
-    {
-      "id": "8",
-      "name": "test2",
-      "file": "test2.lua",
-      "version": "2.0.2",
-      "author": "Name",
-      "url": "https://raw.githubusercontent.com/yy"
+      "name": "Chat Helper",
+      "author": "DevName",
+      "url": "https://raw.githubusercontent.com/wowwvw/ms/refs/heads/main/scripts/chat.lua"
     }
   ]
 }
