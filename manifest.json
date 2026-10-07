@@ -1,0 +1,22 @@
+{
+  "scripts": [
+    {
+      "id": "test",
+      "name": "test",
+      "file": "test.lua",
+      "version": "1.0.1",
+      "author": "Name",
+      "description": "test1",
+      "url": "https://raw.githubusercontent.com/yy"
+    },
+    {
+      "id": "test2",
+      "name": "test2",
+      "file": "test2.lua",
+      "version": "2.0.2",
+      "author": "Name",
+      "description": "test2",
+      "url": "https://raw.githubusercontent.com/yy"
+    }
+  ]
+}
