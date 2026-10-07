@@ -1,12 +1,12 @@
 {
   "scripts": [
     {
-      "id": "test",
-      "name": "time",
-      "file": "test.lua",
-      "version": "1.0.1",
-      "author": "Name",
-      "description": "test1",
+      "id": "Server Time",
+      "name": "Server Time",
+      "file": "Server Time.lua",
+      "version": "1.0",
+      "author": "Kalashnikov",
+      "description": "Позволяет отображать время сервера внизу экрана с максимальной точностью",
       "url": "https://raw.githubusercontent.com/wowwvw/ms/refs/heads/main/scripts/time.lua"
     },
     {
