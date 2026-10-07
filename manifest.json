@@ -1,21 +1,67 @@
 {
   "scripts": [
     {
-      "id": "Server Time",
+      "id": "1",
       "name": "Server Time",
       "file": "Server Time.lua",
       "version": "1.0",
       "author": "Kalashnikov",
-      "description": "Позволяет отображать время сервера внизу экрана с максимальной точностью",
       "url": "https://raw.githubusercontent.com/wowwvw/ms/refs/heads/main/scripts/time.lua"
     },
     {
-      "id": "test2",
+      "id": "2",
       "name": "test2",
       "file": "test2.lua",
       "version": "2.0.2",
       "author": "Name",
-      "description": "test2",
+      "url": "https://raw.githubusercontent.com/yy"
+    },
+    {
+      "id": "3",
+      "name": "test2",
+      "file": "test2.lua",
+      "version": "2.0.2",
+      "author": "Name",
+      "url": "https://raw.githubusercontent.com/yy"
+    },
+    {
+      "id": "4",
+      "name": "test2",
+      "file": "test2.lua",
+      "version": "2.0.2",
+      "author": "Name",
+      "url": "https://raw.githubusercontent.com/yy"
+    },
+    {
+      "id": "5",
+      "name": "test2",
+      "file": "test2.lua",
+      "version": "2.0.2",
+      "author": "Name",
+      "url": "https://raw.githubusercontent.com/yy"
+    },
+    {
+      "id": "6",
+      "name": "test2",
+      "file": "test2.lua",
+      "version": "2.0.2",
+      "author": "Name",
+      "url": "https://raw.githubusercontent.com/yy"
+    },
+    {
+      "id": "7",
+      "name": "test2",
+      "file": "test2.lua",
+      "version": "2.0.2",
+      "author": "Name",
+      "url": "https://raw.githubusercontent.com/yy"
+    },
+    {
+      "id": "8",
+      "name": "test2",
+      "file": "test2.lua",
+      "version": "2.0.2",
+      "author": "Name",
       "url": "https://raw.githubusercontent.com/yy"
     }
   ]
